@@ -126,7 +126,7 @@ CALLBACK_GAS_LIMIT=500000
 ## 📜 Smart Contract Example
 
 <p align="center">
-  <img src="assets/carbon.png" width="600"/>
+  <img src="/carbon.png" width="600"/>
 </p>
 
 ---
