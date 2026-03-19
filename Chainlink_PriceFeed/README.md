@@ -90,13 +90,13 @@ npm install @chainlink/contracts
 
 ---
 
-## 🧾 Smart Contract Example
+## 📜 Smart Contract Example
 
-```solidity
 
- ![img](https://github.com/SumanMoharana24/Path-to-web3/blob/d66a93610f5e5cceab7c9d178de29f266af3a870/Chainlink_PriceFeed/assets/carbon.png)
+ ![img](https://github.com/SumanMoharana24/Path-to-web3/blob/ee4aa4a4cbaf8e5b93672763a124672d19c66ea2/Chainlink_PriceFeed/assets/carbon.png)
 
-```
+
+---
 
 ---
 
