@@ -43,7 +43,7 @@ CALLBACK_GAS_LIMIT=500000
 ## 📜 Smart Contract Example
 
 
-  <img src="assets/carbon.png" />
+ ![img](https://github.com/SumanMoharana24/Path-to-web3/blob/2d3a191c8b4eb6ad6cc1e07aba45656f5d256d9a/Chainlink_Randomness/assets/carbon%20(1).png)
 
 
 ---
