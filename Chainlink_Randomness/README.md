@@ -109,7 +109,6 @@ npx hardhat run scripts/deploy.js --network sepolia
 ## 📚 Resources
 
 - https://docs.chain.link/vrf  
-- https://vrf.chain.link  
 
 ---
 
