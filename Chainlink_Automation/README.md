@@ -27,7 +27,7 @@ Chainlink Automation solves this by acting as a decentralized executor.
 
 ```solidity
 
-![image]()
+![image](https://github.com/SumanMoharana24/Path-to-web3/blob/6f1e7ef94a7f2c71b7eb671e9cbf3637290c5540/Chainlink_Automation/assets/carbon%20(3).png)
 
 ```
 
