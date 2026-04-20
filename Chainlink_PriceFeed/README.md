@@ -17,7 +17,7 @@ By the end of this guide, you will:
 
 ---
 
-## 🧠 What is the Problem?
+## 🧠 What is the Problem? 
 
 Blockchains are **deterministic systems**.
 
