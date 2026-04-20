@@ -8,8 +8,8 @@ A full guide to understanding and implementing **Chainlink Automation (formerly 
 
 **Chainlink Automation** is a decentralized service that allows smart contracts to **automatically execute functions** when predefined conditions are met.
 
-- ⚡ Trustless execution  
-- 🔒 Decentralized reliability  
+- ⚡ Trustless execution   
+- 🔒 Decentralized reliability   
 - ⛽ Efficient gas usage  
 - 🤖 Fully automated workflows  
 
